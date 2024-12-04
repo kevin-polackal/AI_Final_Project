@@ -1,0 +1,7 @@
+--- JNJ ---
+RMSE: 84.99
+Baseline RMSE: 117.37
+MAPE: 0.01
+Baseline MAPE: 0.02
+R-squared: 0.8689
+Baseline R-squared: 0.7501

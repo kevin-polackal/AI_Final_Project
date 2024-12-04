@@ -1,0 +1,7 @@
+--- MSFT ---
+RMSE: 90.09
+Baseline RMSE: 119.82
+MAPE: 0.02
+Baseline MAPE: 0.02
+R-squared: 0.9329
+Baseline R-squared: 0.8815

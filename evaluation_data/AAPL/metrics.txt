@@ -1,0 +1,7 @@
+--- AAPL ---
+RMSE: 90.43
+Baseline RMSE: 119.45
+MAPE: 0.02
+Baseline MAPE: 0.02
+R-squared: 0.9143
+Baseline R-squared: 0.8508

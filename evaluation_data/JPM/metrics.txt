@@ -1,0 +1,7 @@
+--- JPM ---
+RMSE: 80.26
+Baseline RMSE: 123.97
+MAPE: 0.02
+Baseline MAPE: 0.03
+R-squared: 0.9415
+Baseline R-squared: 0.8599

@@ -1,0 +1,7 @@
+--- AMZN ---
+RMSE: 88.17
+Baseline RMSE: 137.19
+MAPE: 0.02
+Baseline MAPE: 0.03
+R-squared: 0.9481
+Baseline R-squared: 0.8738
